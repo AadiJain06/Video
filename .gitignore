@@ -1,0 +1,5 @@
+# Ignore everything inside the models folder
+models/*
+
+# But allow the models folder itself
+!models/.gitkeep
